@@ -1,0 +1,30 @@
+{
+  "name": "tech-blog-homework",
+  "version": "1.0.0",
+  "description": "Creates a tech blog site using Express Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xZ3n/tech-blog-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xZ3n/tech-blog-homework/issues"
+  },
+  "homepage": "https://github.com/0xZ3n/tech-blog-homework#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.2",
+    "dotenv": "^10.0.0",
+    "express-handlebars": "^5.3.4",
+    "express-server": "^0.7.0",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.3.2",
+    "sequelize": "^6.9.0"
+  }
+}
