@@ -1,6 +1,10 @@
 # tech-blog-homework
 Creates a tech blog site using Express Handlebars
 
+## Contributor
+I got direction from Ani,on the set up for the models.
+https://github.com/anidino/my-tech-blog
+
 ## User Story
 AS A developer who writes about tech
 I WANT a CMS-style blog site
